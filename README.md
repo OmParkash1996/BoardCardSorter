@@ -1,5 +1,6 @@
 # BoardCardSorter
 To clone and run a Django app, you'll need the following prerequisites:
+
     1. Python: Django is a Python web framework, so you need Python installed on your system. 
     2. Virtual Environment (Optional): It's a good practice to create a virtual environment for your Django project. This isolates your project's dependencies from the system-wide Python installation.
     
